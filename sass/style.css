@@ -783,3 +783,8 @@ blockquote p::after {
   border-top: 1px solid #FFFFFF0D;
 }
 /*# sourceMappingURL=style.css.map */
+
+.foot{
+  max-width: 250px;
+  max-height: 250px;
+}
